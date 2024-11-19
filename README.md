@@ -35,13 +35,13 @@ Bu projede modern Android geliştirme araç ve teknolojileri kullanılmıştır:
 ## 📱 **Ekran Görüntüleri**
 
 ### **Sure Listesi**
-![Sure Listesi](WhatsApp%20Görsel%202024-11-19%20saat%2022.13.55_c20db890.jpg)
+![Sure Listesi](images/sure_listesi.jpg)
 
 ### **Tamamlanan Sureler**
-![Tamamlanan Sureler](WhatsApp%20Görsel%202024-11-19%20saat%2022.13.55_5050ae4b.jpg)
+![Tamamlanan Sureler](images/tamamlananlar.jpg)
 
 ### **Not Ekranı**
-![Not Ekranı](WhatsApp%20Görsel%202024-11-19%20saat%2022.13.55_7f1a62f3.jpg)
+![Not Ekranı](images/not_ekrani.jpg)
 
 ---
 
