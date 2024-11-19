@@ -46,4 +46,4 @@ Bu projede modern Android geliştirme araç ve teknolojileri kullanılmıştır:
 
 1. **Depoyu Klonlayın:**
    ```bash
-   git clone https://github.com/username/hafizlik-takip.git
+   git clone https://github.com/Kasimcyln/Memorization-Tracking.git
