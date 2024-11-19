@@ -34,11 +34,14 @@ Bu projede modern Android geliştirme araç ve teknolojileri kullanılmıştır:
 
 ## 📱 **Ekran Görüntüleri**
 
-| Sure Listesi | Ayetler ve Checkbox | Tamamlananlar | Not Ekranı |
-|--------------|----------------------|---------------|------------|
-| ![Sure Listesi](https://via.placeholder.com/150) | ![Ayetler](https://via.placeholder.com/150) | ![Tamamlananlar](https://via.placeholder.com/150) | ![Not Ekranı](https://via.placeholder.com/150) |
+### **Sure Listesi**
+![Sure Listesi](WhatsApp%20Görsel%202024-11-19%20saat%2022.13.55_c20db890.jpg)
 
-> *Ekran görüntüleri sadece örnektir. Gerçek uygulama daha detaylıdır.*
+### **Tamamlanan Sureler**
+![Tamamlanan Sureler](WhatsApp%20Görsel%202024-11-19%20saat%2022.13.55_5050ae4b.jpg)
+
+### **Not Ekranı**
+![Not Ekranı](WhatsApp%20Görsel%202024-11-19%20saat%2022.13.55_7f1a62f3.jpg)
 
 ---
 
