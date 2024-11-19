@@ -1,0 +1,14 @@
+
+ckotlin:S125E"Remove this commented out code.(–±Ù8ûµ¿Ÿ 2J$34c655e1-a0cb-4a9a-8322-4658c88c9b53
+fkotlin:S6310"Avoid hardcoded dispatchers.(‚±²µøÿÿÿÿ8ıµ¿Ÿ 2J$418dbe11-e093-4e47-8857-8eb778a45739
+akotlin:S6310"Avoid hardcoded dispatchers.(£¡§Å8ıµ¿Ÿ 2J$59b5415a-635e-439a-a243-1728709fc6cd
+akotlin:S6310 "Avoid hardcoded dispatchers.(ö‹¾¹8ıµ¿Ÿ 2J$d26cc5a0-beaa-4008-ac4f-926233237b03
+fkotlin:S6310%"Avoid hardcoded dispatchers.(Ì÷ÚÛûÿÿÿÿ8ıµ¿Ÿ 2J$3e3debca-1bd1-4ec8-b1dd-d7be372b7901
+fkotlin:S6310*"Avoid hardcoded dispatchers.(ü¥š€ûÿÿÿÿ8ıµ¿Ÿ 2J$bdd859be-1826-4ddc-9186-1641f8106f75
+fkotlin:S6310O"Avoid hardcoded dispatchers.(ğ£Õøÿÿÿÿ8ıµ¿Ÿ 2J$3d8ab448-f046-4a51-9894-40ecb04bb32b
+fkotlin:S6310T"Avoid hardcoded dispatchers.(‰ãÖÏıÿÿÿÿ8ıµ¿Ÿ 2J$4c4ee979-f421-45bf-a3c6-c653c7f0c0b8
+akotlin:S6310["Avoid hardcoded dispatchers.(ÉÍ¡ 8ıµ¿Ÿ 2J$844c554c-f51b-42cc-8788-4a01ec5a9535
+akotlin:S63100"Avoid hardcoded dispatchers.(Ô¥‚ü8ıµ¿Ÿ 2J$f485c5f7-51b7-4442-bf23-9c68526ebacd
+pkotlin:S6311"QRemove this dispatcher. It is pointless when used with only suspending functions.(£¡§Å8‡µöú 2
+ukotlin:S6311*"QRemove this dispatcher. It is pointless when used with only suspending functions.(ü¥š€ûÿÿÿÿ8‡µöú 2
+ukotlin:S6311O"QRemove this dispatcher. It is pointless when used with only suspending functions.(ğ£Õøÿÿÿÿ8ˆµöú 2
